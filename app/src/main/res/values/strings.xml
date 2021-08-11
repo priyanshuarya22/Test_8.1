@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Test 8.1</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="go">Go</string>
+    <string name="enter_location">Enter Location</string>
+    <string name="normal">Normal</string>
+    <string name="terrain">Terrain</string>
+    <string name="satellite">Satellite</string>
+    <string name="hybrid">Hybrid</string>
+    <string name="my_location">My Location</string>
+</resources>
